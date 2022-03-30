@@ -1,0 +1,9 @@
+When pulling from git we need to change this to make it run here:
+- overwrite NI-Lines
+
+- load Maze and save as default (have to edit the textures then)
+- or just create new
+
+- save scripts
+- change blender window size to 3840x1080
+- change wheel encoder position to right

@@ -1,0 +1,24 @@
+[settings]
+gratings = True
+endless = False
+endless_length = 0
+endless_factor = 0
+reward_visible = False
+
+[Walls]
+0 = [200, 0, 200, '120']
+1 = [200, '120', 220, 120]
+2 = [220, 0, 220, 120]
+3 = [200, 0, 220, 0]
+
+[Rewards]
+0 = [209.0, 111.0]
+
+[Sensors]
+
+[False Walls]
+
+[Positions]
+start = [209.0, 9.0]
+teleport = [345.0, 665.0]
+

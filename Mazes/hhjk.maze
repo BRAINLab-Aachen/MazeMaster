@@ -1,0 +1,14 @@
+[Rewards]
+0 = [175.0, 665.0]
+
+[Positions]
+start = [25.0, 665.0]
+teleport = [345.0, 665.0]
+
+[settings]
+endless = 0
+gratings = 0
+
+[Walls]
+0 = [400.0, 180.0, 380.0, 240.0]
+
